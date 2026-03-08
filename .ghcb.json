@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "owner": "carlyenn",
+  "repo": "Cloudsave-Lrac-Gaming",
+  "branch": "DispatchSaves",
+  "mappings": [
+    {
+      "machine_id": "6cb9e448d8996750ab959f0dd6207d2887a4990b",
+      "machine_name": "Carl",
+      "path": "C:\\Users\\User\\AppData\\Local\\Dispatch",
+      "os": "Windows",
+      "last_updated": "2026-03-08T05:55:14.189617+00:00"
+    }
+  ],
+  "updated_at": "2026-03-08T05:55:14.189617+00:00"
+}
