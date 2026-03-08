@@ -1,0 +1,11 @@
+{
+	"HDR": "On",
+	"TextureQuality": "Ultra",
+	"DetailLevel": "Ultra",
+	"AntiAliasing": "FSR",
+	"ResolutionScale": "100.00",
+	"ShaderQuality": "Ultra",
+	"MaxAnisotropy": "16X",
+	"PostProcessingQuality": "Ultra",
+	"VoiceVolume": "1.5"
+}
